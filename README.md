@@ -1,16 +1,18 @@
-### Hi there 👋
+### About Me
 
-<!--
-**GabsCrisNav/GabsCrisNav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+- I’m curious person about technologies, data analysis and software development. 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently studying B.S. in Computer Science at Monterrey Institute of Technology and Higher Studies. 📔
+
+- Learning and discovering tools like Artificial Intelligence, Data Analysis and visualization, and Cloud Computing. ☁️
+
+- Passionate about FRC and videogames, as well on philosophical debates, and how technology can help and impact people lifes. 🤖   
+🔺⚪️🟦
+
+- Interested on an internship or part time job/project that can developed more my skills.  👨🏾‍💻
+
+- You can find me by emailing at gabriel.crisnavid@hotmail.com 📩
+
+- Resume
