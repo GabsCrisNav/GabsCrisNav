@@ -1,7 +1,5 @@
 ### About Me
 
-About Me
-
 - I’m curious person about technologies, data analysis and software development. 📊
 
 - Currently studying B.S. in Computer Science at Monterrey Institute of Technology and Higher Studies. 📔
