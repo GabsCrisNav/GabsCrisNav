@@ -11,4 +11,4 @@
 
 - You can find me by emailing at gabriel.crisnavid@hotmail.com 📩
 
-- [Resume](https://drive.google.com/file/d/1CZYk8UTXScDiFD5OHYF8khuZ0MlG1F6-/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1o-QhraFNbjeXXmI1RGeh2A2LcuGeEi3U/view?usp=sharing)
