@@ -4,6 +4,8 @@
 
 - B.S. in Computer Science and Technology at Monterrey Institute of Technology and Higher Studies. 📔
 
+- M.S. in Data Science at University of London, currently in class 👨🏾‍💻
+
 - Learning and discovering tools like Artificial Intelligence, Big Data processing, visualization, and Cloud Computing. ☁️
 
 - Passionate about FRC and videogames, as well on philosophical debates, and how technology can help and impact people lifes. 🤖   
